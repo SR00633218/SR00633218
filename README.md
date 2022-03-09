@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreenivas
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m working as DevOps Engineer
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me sreenivasrambhatla@gmail.com
 
